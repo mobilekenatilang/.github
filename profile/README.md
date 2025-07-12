@@ -1,9 +1,8 @@
 <div align="center">
+  <h1>🚧 MobileKenaTilang 🚧</h1>
   <picture>
     <img src="image.png" alt="Profile Picture" height="200">
-  </picture>
-  <h1>🚧 MobileKenaTilang 🚧</h1>
-  <p><em>Kerja, kerja, kerja!!</em></p>
+  </picture><br>
 </div>
 
 ## 🏢 About Us
