@@ -2,7 +2,7 @@
   <picture>
     <img src="image.png" alt="Profile Picture" height="200">
   </picture>
-  <h3 style="font-size: 28px;">🚧 MobileKenaTilang 🚧</h3>
+  <h2>🚧 MobileKenaTilang 🚧</h2>
   <p><em>Kerja, kerja, kerja!!</em></p>
 </div>
 
