@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚧 MobileKenaTilang 🚧</h1>
   <picture>
-    <img src="image.png" alt="Profile Picture" height="200">
+    <img src="image.png" alt="mobilekenatilang" height="225">
   </picture><br>
 </div>
 
