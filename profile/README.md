@@ -14,7 +14,4 @@ Concise of 3 members, we are a team of passionate developers dedicated to buildi
 - Fauzan Putra Sanjaya (CSUI 2023)
 
 ## 💻 Projects
-<!-- - [Project One](https://github.com/your-org/project-one): Short description of the project.
-- [Project Two](https://github.com/your-org/project-two): Short description of the project.
-- [More Projects...](https://github.com/your-org) -->
-*Coming soon~*
+- [MoodTune](https://github.com/mobilekenatilang/moodtune): Mood Tracker & Daily Journal app, with music mood-based recommendations through Spotify
